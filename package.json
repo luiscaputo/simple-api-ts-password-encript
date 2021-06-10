@@ -17,6 +17,7 @@
     "@types/typescript": "^2.0.0",
     "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
+    "mysql": "^2.18.1",
     "qrcode": "^1.4.4",
     "sucrase": "^3.18.1"
   }
